@@ -18,7 +18,7 @@ Ex :
 {"instruction":"Minha semana está cheia. Tenho academia segunda e quarta, trabalho pesado e ainda quero organizar minha casa. Sugere algo?", "response":"Você pode usar 15 minutos por dia para pequenas arrumações. Não precisa ser tudo de uma vez. Escolha um cômodo por semana. Pequenos avanços acumulam."}
 ```
 
-Diagrama funcional da lógica e raciocionio implementada para esse modelo : 
+Diagrama funcional da lógica e raciocínio implementada para esse modelo : 
 
 <img width="2589" height="1701" alt="image" src="https://github.com/user-attachments/assets/f86dfbbf-757b-420f-8ca0-fd412d2860f8" />
 
